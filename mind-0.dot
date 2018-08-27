@@ -1,0 +1,4 @@
+digraph colla_schema {
+    UserA -> UserB[label = "Liked", color = green];
+	UserB -> UserA[label = "Liked_By", color = red];
+}
