@@ -7,3 +7,6 @@ bin/
 
 # png
 *.png
+
+# pub-key-outputfile
+*pub
